@@ -1,1 +1,1 @@
-# Advanced-Scan
+# Advanced scan refers to a more in-depth and detailed network scan that goes beyond basic host discovery. It involves gathering extensive information about network devices, open ports, services, operating systems, vulnerabilities, and even firewall rules.
